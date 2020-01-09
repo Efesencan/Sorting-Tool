@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Efesencan/Sorting-Tool.git/static/css/main.dd9fb0bb.chunk.css",
-    "main.js": "/Efesencan/Sorting-Tool.git/static/js/main.1d05e364.chunk.js",
-    "main.js.map": "/Efesencan/Sorting-Tool.git/static/js/main.1d05e364.chunk.js.map",
-    "runtime-main.js": "/Efesencan/Sorting-Tool.git/static/js/runtime-main.d23bac1d.js",
-    "runtime-main.js.map": "/Efesencan/Sorting-Tool.git/static/js/runtime-main.d23bac1d.js.map",
-    "static/css/2.17e5ed98.chunk.css": "/Efesencan/Sorting-Tool.git/static/css/2.17e5ed98.chunk.css",
-    "static/js/2.42f1752b.chunk.js": "/Efesencan/Sorting-Tool.git/static/js/2.42f1752b.chunk.js",
-    "static/js/2.42f1752b.chunk.js.map": "/Efesencan/Sorting-Tool.git/static/js/2.42f1752b.chunk.js.map",
-    "index.html": "/Efesencan/Sorting-Tool.git/index.html",
-    "precache-manifest.306f7a94cb2d2ca7cdf99eefbc2d4561.js": "/Efesencan/Sorting-Tool.git/precache-manifest.306f7a94cb2d2ca7cdf99eefbc2d4561.js",
-    "service-worker.js": "/Efesencan/Sorting-Tool.git/service-worker.js",
-    "static/css/2.17e5ed98.chunk.css.map": "/Efesencan/Sorting-Tool.git/static/css/2.17e5ed98.chunk.css.map",
-    "static/css/main.dd9fb0bb.chunk.css.map": "/Efesencan/Sorting-Tool.git/static/css/main.dd9fb0bb.chunk.css.map",
-    "static/js/2.42f1752b.chunk.js.LICENSE": "/Efesencan/Sorting-Tool.git/static/js/2.42f1752b.chunk.js.LICENSE"
+    "main.css": "/Sorting-Tool/static/css/main.dd9fb0bb.chunk.css",
+    "main.js": "/Sorting-Tool/static/js/main.6d2d7298.chunk.js",
+    "main.js.map": "/Sorting-Tool/static/js/main.6d2d7298.chunk.js.map",
+    "runtime-main.js": "/Sorting-Tool/static/js/runtime-main.8b4a0efa.js",
+    "runtime-main.js.map": "/Sorting-Tool/static/js/runtime-main.8b4a0efa.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/Sorting-Tool/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.42f1752b.chunk.js": "/Sorting-Tool/static/js/2.42f1752b.chunk.js",
+    "static/js/2.42f1752b.chunk.js.map": "/Sorting-Tool/static/js/2.42f1752b.chunk.js.map",
+    "index.html": "/Sorting-Tool/index.html",
+    "precache-manifest.8e255eade34d09cb319b5127bcd01918.js": "/Sorting-Tool/precache-manifest.8e255eade34d09cb319b5127bcd01918.js",
+    "service-worker.js": "/Sorting-Tool/service-worker.js",
+    "static/css/2.17e5ed98.chunk.css.map": "/Sorting-Tool/static/css/2.17e5ed98.chunk.css.map",
+    "static/css/main.dd9fb0bb.chunk.css.map": "/Sorting-Tool/static/css/main.dd9fb0bb.chunk.css.map",
+    "static/js/2.42f1752b.chunk.js.LICENSE": "/Sorting-Tool/static/js/2.42f1752b.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.d23bac1d.js",
+    "static/js/runtime-main.8b4a0efa.js",
     "static/css/2.17e5ed98.chunk.css",
     "static/js/2.42f1752b.chunk.js",
     "static/css/main.dd9fb0bb.chunk.css",
-    "static/js/main.1d05e364.chunk.js"
+    "static/js/main.6d2d7298.chunk.js"
   ]
 }
